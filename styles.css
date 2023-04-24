@@ -1,0 +1,28 @@
+body {
+  font-family: monospace;
+  margin: 0;
+  padding: 1rem;
+  line-height: 1.5;
+  font-size: 16px;
+  background-color: black;
+  color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 16px;
+  font-weight: normal;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  color: #00b3b3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
