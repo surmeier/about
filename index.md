@@ -16,7 +16,7 @@ The following projects are my current focus:
 - `Beet Takeshi` (Creator): a provably perfect decompilation of the `NES` game 
 [Takeshi no Chōsenjō](https://en.wikipedia.org/wiki/Takeshi_no_Ch%C5%8Dsenj%C5%8D).
 
-- [WASMwand] (Creator, Senior Thesis): a topological 
+- `WASMwand` (Creator, Senior Thesis): a topological 
 [MLIR](https://mlir.llvm.org/) dialect and [unikernel](http://unikernel.org/) 
 WASM runtime. A whitepaper, literature review, and MVP will be released 
 December 31st, 2024; little to no project details will be shared until then.
@@ -30,6 +30,11 @@ heterogeneous parallelism.
 - [Privacy Backplane](https://privacy-backplane.org/): NU, UMich, and Pitt 
 project group focused on enabling individualized privacy policies in TEE-enabled
 IoT environments, such as cashierless stores.
+
+- [Village](https://github.com/vlang-project): compiler for NESL/VCODE to 
+ LLVM-IR. My current work is adding exception support to RISC-V Vector 
+ Extensions in the 
+ [BOOM/Ocelot](https://github.com/tenstorrent/riscv-ocelot) core.
 
 - `Tortoise` (Creator): a distributed model of differential privacy, and a
 [libp2p](https://libp2p.io/) implementation of said model. Builds upon ideas 
