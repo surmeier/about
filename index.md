@@ -13,8 +13,9 @@ formal verification, cryptography, and homotopy type theory.
 
 The following projects are my current focus:
 
-- `Beet Takeshi` (Creator): a provably perfect decompilation of the `NES` game 
-[Takeshi no Chōsenjō](https://en.wikipedia.org/wiki/Takeshi_no_Ch%C5%8Dsenj%C5%8D).
+- `Beet Takeshi` (Creator): a provably perfect decompilation and 
+[TAS](https://en.wikipedia.org/wiki/Tool-assisted_speedrun) of the 
+`NES` game [Takeshi no Chōsenjō](https://en.wikipedia.org/wiki/Takeshi_no_Ch%C5%8Dsenj%C5%8D).
 
 - `WASMwand` (Creator, Senior Thesis): a topological 
 [MLIR](https://mlir.llvm.org/) dialect and [unikernel](http://unikernel.org/) 
