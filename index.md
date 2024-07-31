@@ -17,8 +17,8 @@ The following projects are my current focus:
 `NES` game [Takeshi no Chōsenjō](https://en.wikipedia.org/wiki/Takeshi_no_Ch%C5%8Dsenj%C5%8D).
 
 - `WASMwand` (Creator): a topological [MLIR](https://mlir.llvm.org/) dialect 
-and [unikernel](http://unikernel.org/) WASM runtime. A whitepaper, and 
-literature review will be released June 8th, 2025; email me at 
+and [unikernel](http://unikernel.org/) WASM runtime. A whitepaper and 
+literature review will be released June 1st, 2025; email me at 
 `${first_name}@surmeier.us` for more information.
  
 I'm also actively working on the following projects:
