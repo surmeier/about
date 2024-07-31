@@ -4,9 +4,8 @@ layout: null
 
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-Hi, my name is Carson. I'm currently majoring in math and computer science at 
-Northwestern University. I work in the 
-[Prescience Lab](http://presciencelab.org/), led by Professor Peter Dinda. 
+Hi, my name is Carson. I currently work in the [Prescience Lab](http://presciencelab.org/) 
+at Northwestern, led by Professor Peter Dinda. 
 
 My main research interests are operating system microkernels, hardware/software 
 formal verification, cryptography, and homotopy type theory. 
@@ -17,11 +16,11 @@ The following projects are my current focus:
 [TAS](https://en.wikipedia.org/wiki/Tool-assisted_speedrun) of the 
 `NES` game [Takeshi no Chōsenjō](https://en.wikipedia.org/wiki/Takeshi_no_Ch%C5%8Dsenj%C5%8D).
 
-- `WASMwand` (Creator, Senior Thesis): a topological 
-[MLIR](https://mlir.llvm.org/) dialect and [unikernel](http://unikernel.org/) 
-WASM runtime. A whitepaper, literature review, and MVP will be released 
-December 31st, 2024; little to no project details will be shared until then.
-
+- `WASMwand` (Creator): a topological [MLIR](https://mlir.llvm.org/) dialect 
+and [unikernel](http://unikernel.org/) WASM runtime. A whitepaper, and 
+literature review will be released June 8th, 2025; email me at 
+`${first_name}@surmeier.us` for more information.
+ 
 I'm also actively working on the following projects:
 
 - [Constellation](https://constellation-project.net/): NU and CMU project
@@ -61,14 +60,14 @@ developed at Hexsa Lab in [IIT](https://www.iit.edu/). Work was focused on
 
 Language knowledge:
 
-- I'm highly proficient in `Rust`, `C`, `C++`, `Lean 4`, `Scala/Chisel HDL`, 
-`RISC-V Assembly`, `WASM`, `R/ggplot2`, and `Nix`.
+- I'm highly proficient in `Rust`, `C`, `Lean 4`, `Scala/Chisel HDL`, 
+`Haskell`, `RISC-V Assembly`, `R/ggplot2`, and `Nix`.
 
 - I have high familiarity with and am actively learning `TLA+`, `Sail DSL`, 
-`Haskell`, `Coq`, and `Cubical Agda`. 
+`Coq`, `Koka`, and `Cubical Agda`. 
 
 I also work on open-source maintenance on a variety of small projects.
-In my free time I like playing online Go, marathon running, and 
-retrofitting the fans in my server rack so I can sleep.
+In my free time I like jiu-jitsu, competitive poker, marathon running, 
+and retrofitting the fans in my server rack so I can sleep.
 If you're interested in working on something together, contact me at 
-`first_name@surmeier.us`
+`${first_name}@surmeier.us`. Looking forward to hearing from you. 
