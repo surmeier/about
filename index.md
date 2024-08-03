@@ -60,11 +60,11 @@ developed at Hexsa Lab in [IIT](https://www.iit.edu/). Work was focused on
 
 Language knowledge:
 
-- I'm highly proficient in `Rust`, `C`, `Lean 4`, `Scala/Chisel HDL`, 
-`Haskell`, `RISC-V Assembly`, `R/ggplot2`, and `Nix`.
+- I'm highly proficient in `Haskell`, `Rust`, `C`, `Lean 4`, 
+`Scala 3/Chisel HDL`, `R/ggplot2`, and `Nix`.
 
 - I have high familiarity with and am actively learning `TLA+`, `Sail DSL`, 
-`Coq`, `Koka`, and `Cubical Agda`. 
+`Coq`, `RISC-V Assembly`, `F*`, `Koka`, and `Cubical Agda`. 
 
 I also work on open-source maintenance on a variety of small projects.
 In my free time I like jiu-jitsu, competitive poker, marathon running, 
