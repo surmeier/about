@@ -5,7 +5,8 @@ layout: null
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 Hi, my name is Carson. I currently work in the [Prescience Lab](http://presciencelab.org/) 
-at Northwestern, led by Professor Peter Dinda. 
+at Northwestern, led by Professor Peter Dinda. I will earn a dual degree in 
+Computer Science (BS) and Mathematics (BA) by June 2025. 
 
 My main research interests are operating system microkernels, hardware/software 
 formal verification, cryptography, and homotopy type theory. 
@@ -60,11 +61,12 @@ developed at Hexsa Lab in [IIT](https://www.iit.edu/). Work was focused on
 
 Language knowledge:
 
-- I'm highly proficient in `Haskell`, `Rust`, `C`, `Lean 4`, 
-`Scala 3/Chisel HDL`, `R/ggplot2`, and `Nix`.
+- I'm highly proficient in `Haskell`, `Rust`, `C`, `Lean 4`, `Python`, `Go`, 
+`R/ggplot2`, and `Nix/Dhall`.
 
 - I have high familiarity with and am actively learning `TLA+`, `Sail DSL`, 
-`Coq`, `RISC-V Assembly`, `F*`, `Koka`, and `Cubical Agda`. 
+`Coq`, `Scala 3/Chisel HDL`, `RISC-V Assembly`, `F*`, `Koka`, `Racket/Rosette`, 
+and `Cubical Agda`. 
 
 I also work on open-source maintenance on a variety of small projects.
 In my free time I like jiu-jitsu, competitive poker, marathon running, 
