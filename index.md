@@ -42,9 +42,9 @@ heterogeneous parallelism.
 [TAS](https://en.wikipedia.org/wiki/Tool-assisted_speedrun) of the 
 `NES` game [Takeshi no Chōsenjō](https://en.wikipedia.org/wiki/Takeshi_no_Ch%C5%8Dsenj%C5%8D).
 
-- `Pokerbowl` (Creator): FOSS Texas Hold 'em site similar to [lichess](lichess.org),
-with a client-side GTO solver. Built with [Servant](https://www.servant.dev)
-and [Reflex](https://github.com/reflex-frp/reflex).
+- `Pokerbowl` (Creator): FOSS Texas Hold 'em site similar to 
+[lichess](https://lichess.org), with a client-side GTO solver. Built with 
+[Servant](https://www.servant.dev) and [Reflex](https://github.com/reflex-frp/reflex).
   
 Notable previous contributions:
 
