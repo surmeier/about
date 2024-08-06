@@ -4,9 +4,9 @@ layout: null
 
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-Hi, my name is Carson. I currently work in the [Prescience Lab](http://presciencelab.org/) 
-at Northwestern, led by Professor Peter Dinda. I will earn a dual degree in 
-Computer Science (BS) and Mathematics (BA) by June 2025. 
+Hi, my name is Carson. I currently work in the [Prescience Lab](http://presciencelab.org/),
+ led by Professor Peter Dinda. I will complete a dual major in 
+computer science and mathematics at Northwestern by June 2025. 
 
 My main research interests are operating system microkernels, hardware/software 
 formal verification, cryptography, and homotopy type theory. 
@@ -75,7 +75,5 @@ and `Cubical Agda`.
 - I occasionally code in `Go`, `Kotlin` and `Python` if I want to program footguns. 
 
 In my free time I like jiu-jitsu, competitive poker, marathon running, 
-and retrofitting the fans in my server rack so I can sleep.
-
-If you're interested in working on something together, contact me at 
-`${first_name}@surmeier.us`.
+and retrofitting the fans in my server rack so I can sleep. If you're interested 
+in working on something together, contact me at `${first_name}@surmeier.us`.
