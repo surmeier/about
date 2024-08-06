@@ -74,8 +74,8 @@ and `Cubical Agda`.
 
 - I occasionally code in `Go`, `Kotlin` and `Python` if I want to program footguns. 
 
-I also work on open-source maintenance on a variety of small projects.
 In my free time I like jiu-jitsu, competitive poker, marathon running, 
 and retrofitting the fans in my server rack so I can sleep.
+
 If you're interested in working on something together, contact me at 
-`${first_name}@surmeier.us`. Looking forward to hearing from you. 
+`${first_name}@surmeier.us`.
