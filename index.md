@@ -13,14 +13,19 @@ formal verification, cryptography, and homotopy type theory.
 
 The following projects are my current focus:
 
-- `Beet Takeshi` (Creator): a provably perfect decompilation and 
-[TAS](https://en.wikipedia.org/wiki/Tool-assisted_speedrun) of the 
-`NES` game [Takeshi no Chōsenjō](https://en.wikipedia.org/wiki/Takeshi_no_Ch%C5%8Dsenj%C5%8D).
-
 - `WASMwand` (Creator): a topological [MLIR](https://mlir.llvm.org/) dialect 
 and [unikernel](http://unikernel.org/) WASM runtime. A whitepaper and 
 literature review will be released June 1st, 2025; email me at 
 `${first_name}@surmeier.us` for more information.
+
+- [Privacy Backplane](https://privacy-backplane.org/): NU, UMich, and Pitt 
+project group focused on enabling individualized privacy policies in TEE-enabled
+IoT environments, such as cashierless stores.
+
+- `Tortoise` (Creator): a distributed model of differential privacy, and a
+[libp2p](https://libp2p.io/) implementation of said model. Builds upon ideas 
+from `Privacy Backplane`. I'm currently integrating Kademlia DHT and Gossip-Sub 
+based clock sync into the `libp2p` work.
  
 I'm also actively working on the following projects:
 
@@ -28,21 +33,20 @@ I'm also actively working on the following projects:
 group aimed at developing full software and hardware stack for frictionless 
 heterogeneous parallelism.
 
-- [Privacy Backplane](https://privacy-backplane.org/): NU, UMich, and Pitt 
-project group focused on enabling individualized privacy policies in TEE-enabled
-IoT environments, such as cashierless stores.
-
 - [Village](https://github.com/vlang-project): compiler for NESL/VCODE to 
  LLVM-IR. My current work is adding exception support to RISC-V Vector 
  Extensions in the 
  [BOOM/Ocelot](https://github.com/tenstorrent/riscv-ocelot) core.
 
-- `Tortoise` (Creator): a distributed model of differential privacy, and a
-[libp2p](https://libp2p.io/) implementation of said model. Builds upon ideas 
-from `Privacy Backplane`. I'm currently integrating Kademlia DHT and Gossip-Sub 
-based clock sync into the `libp2p` work.
+- `Beet Takeshi` (Creator): a provably perfect decompilation and 
+[TAS](https://en.wikipedia.org/wiki/Tool-assisted_speedrun) of the 
+`NES` game [Takeshi no Chōsenjō](https://en.wikipedia.org/wiki/Takeshi_no_Ch%C5%8Dsenj%C5%8D).
 
-Notable previous work:
+- `Pokerbowl` (Creator): FOSS Texas Hold 'em site similar to [lichess](lichess.org),
+with a client-side GTO solver. Built with [Servant](https://www.servant.dev)
+and [Reflex](https://github.com/reflex-frp/reflex).
+  
+Notable previous contributions:
 
 - `CARAT KOP`: memory guards for Linux kernel modules. A paper on this topic 
 was accepted to [ROSS 2023](https://events.cels.anl.gov/ross/2023/) as of 
