@@ -65,11 +65,11 @@ developed at Hexsa Lab in [IIT](https://www.iit.edu/). Work was focused on
 
 Language knowledge:
 
-- I'm highly proficient in `Haskell`, `Rust`, `C`, `Lean 4`, `R/ggplot2`, 
-and `Nix/Dhall`.
+- I'm highly proficient in `Haskell`, `Rust`, `C`, `Lean 4`, `Scala 3`, 
+`R/tidyverse`, and `Nix`.
 
-- I have high familiarity with and am actively learning `TLA+`, `Sail DSL`, 
-`Coq`, `Scala 3/Chisel HDL`, `RISC-V Assembly`, `F*`, `Koka`, `Racket/Rosette`, 
+- I have high familiarity with and am actively learning `TLA+`, `Koka`, `F*`, 
+`Clash HDL`, `RISC-V Assembly`, `Sail DSL`, `Coq`, `Racket/Rosette`, 
 and `Cubical Agda`. 
 
 - I occasionally code in `Go`, `Kotlin` and `Python` if I want to program footguns. 
