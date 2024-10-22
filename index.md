@@ -41,8 +41,9 @@ Some toy projects I'm working on:
 
 - `PokerBowl`: FOSS Texas Hold 'em site similar to 
 [lichess](https://lichess.org), with a client-side GTO solver. Built with 
-[Servant](https://www.servant.dev) and 
-[Reflex](https://github.com/reflex-frp/reflex).
+[Servant](https://www.servant.dev),
+[Reflex](https://github.com/reflex-frp/reflex), and
+WebGPU.
 
 - `ECIR`: A [MLIR](https://mlir.llvm.org/) dialect for efficiently encoding elliptic curve forms. Loosely related to 
 [HEIR](https://github.com/google/heir). 
@@ -65,7 +66,7 @@ Language knowledge:
 
 - I'm highly proficient in `Haskell`, `C`, `Koka`, `Isabelle`, `Julia/OSCAR`, `Nix/Dhall`, and `Janet`.
 
-- I have high familiarity with and am actively learning `TLA+`, `F*/Low*`, `Sail DSL`, `Lean 4`, `Lua/Luau`, `Kotlin`, and `RISC-V Assembly`.
+- I have high familiarity with and am actively learning `TLA+`, `Rzk`, `F*/Low*`, `Sail DSL`, `Lean 4`, `Lua/Luau`, `Kotlin`, and `RISC-V Assembly`.
 
 I like jiu-jitsu and competitive poker in my free time. If you're interested in working on something together, contact me at `${first_name}@surmeier.us`.
 
