@@ -66,7 +66,7 @@ Language knowledge:
 
 - I'm highly proficient in `Haskell`, `C`, `Koka`, `Isabelle`, `Julia/OSCAR`, `Nix/Dhall`, and `Janet`.
 
-- I have high familiarity with and am actively learning `TLA+`, `Rzk`, `F*/Low*`, `Sail DSL`, `Lean 4`, `Lua/Luau`, `Kotlin`, and `RISC-V Assembly`.
+- I have high familiarity with and am actively learning `TLA+`, `Rzk`, `F*/Low*`, `Sail DSL`, `Lean 4`, `Vulkan API`, and `RISC-V Assembly`.
 
 I like jiu-jitsu and competitive poker in my free time. If you're interested in working on something together, contact me at `${first_name}@surmeier.us`.
 
