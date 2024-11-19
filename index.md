@@ -23,8 +23,9 @@ security. Most notably inspired by [Mirage OS](https://mirage.io),
 [Genode Framework](https://genode.org/documentation/genode-foundations-23-05.pdf), and
 [seL4](https://sel4.systems). 
 
-This work in particular is entirely self-funded (appox. $65k USD as of 11/24). 
-A verified MVP relating to the [MCSP](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1256&context=hmc_theses)
+   - This work in particular is entirely self-funded (appox. $65k USD as of 11/24). 
+
+   - A verified MVP relating to the [MCSP](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1256&context=hmc_theses)
 as well as work improving the [EEVDF](https://docs.kernel.org/scheduler/sched-eevdf.html) scheduler on Linux via [sched_ext](https://www.kernel.org/doc/html/next/scheduler/sched-ext.html)/eBPF will be released June 1st, 2025; email me at `${first_name}@surmeier.us` for more information.
  
 I currently contribute to the following:
