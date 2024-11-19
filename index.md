@@ -10,19 +10,22 @@ Hi, my name is Carson. I currently work in the [Prescience Lab](http://prescienc
 
 The following projects are my current focus:
 
-- `WASMwand` (Senior Thesis): A libOS and WASM runtime, based on
+- `Tortoise` (Senior Thesis): a distributed, geolocation-based model of differential privacy, 
+implemented using a novel application of
+[moduli spaces](https://people.math.harvard.edu/~bejleri/teaching/math259xfa19/math259x_fullnotes.pdf),
+[ECC](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography), and 
+[UWB](https://en.wikipedia.org/wiki/Ultra-wideband). 
+
+- `WASMwand`: A libOS and WASM runtime, based on
 [HoTT](https://ncatlab.org/nlab/show/homotopy+type+theory)-derived capability 
 security. Most notably inspired by [Mirage OS](https://mirage.io), 
 [Demikernel](https://github.com/microsoft/demikernel), 
 [Genode Framework](https://genode.org/documentation/genode-foundations-23-05.pdf), and
 [seL4](https://sel4.systems). 
-A whitepaper and literature review will be released June 1st, 2025; email me at `${first_name}@surmeier.us` for more information.
 
-- `Tortoise`: a distributed, geolocation-based model of differential privacy, 
-implemented using a novel application of
-[moduli spaces](https://people.math.harvard.edu/~bejleri/teaching/math259xfa19/math259x_fullnotes.pdf),
-[ECC](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography), and 
-[UWB](https://en.wikipedia.org/wiki/Ultra-wideband). 
+This work in particular is entirely self-funded (appox. $65k USD as of 11/24). 
+A verified MVP relating to the [MCSP](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1256&context=hmc_theses)
+as well as work improving the [EEVDF](https://docs.kernel.org/scheduler/sched-eevdf.html) scheduler on Linux via [sched_ext](https://www.kernel.org/doc/html/next/scheduler/sched-ext.html)/eBPF will be released June 1st, 2025; email me at `${first_name}@surmeier.us` for more information.
  
 I currently contribute to the following:
 
