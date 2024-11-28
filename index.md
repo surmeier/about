@@ -68,10 +68,10 @@ Notable previous contributions:
 
 Language knowledge:
 
-- I'm highly proficient in `Haskell`, `C`, `Koka`, `Rust`, `Isabelle`, `Julia/OSCAR.jl`, and `Janet`.
+- I'm highly proficient in `Haskell`, `C`, `Koka`, `Scala 3`, `Julia/OSCAR.jl`, `Lean 4`, and `Janet`.
 
-- I have high familiarity with and am actively learning `TLA+`, `Rzk`, `F*/Low*`, `Nix/Dhall`, `Sail DSL`, `Lean 4`, and `RISC-V Assembly`.
+- I have high familiarity with and am actively learning `TLA+`, `Rzk`, `Nix`, `F*/Low*`, `Nix`, `Dhall`, and `RISC-V Assembly`.
 
-I like jiu-jitsu and competitive poker in my free time. If you're interested in working on something together, contact me at `${first_name}@surmeier.us`.
+I like water polo and competitive poker in my free time. If you're interested in working on something together, contact me at `${first_name}@surmeier.us`.
 
 “The valor that struggles is better than the weakness that endures.” - Hegel
