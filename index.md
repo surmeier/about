@@ -4,7 +4,7 @@ layout: null
 
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-Hi, my name is Carson. I currently work in the [Prescience Lab](http://presciencelab.org/), led by Professor Peter Dinda.
+Hi, my name is Hays. I currently work in the [Prescience Lab](http://presciencelab.org/), led by Professor Peter Dinda.
 
 - My main research interests are operating systems, software/hardware formal verification, CPU microarchitecture, algebraic geometry, and homotopy type theory. 
 
@@ -74,9 +74,9 @@ Notable previous contributions:
 
 Language knowledge:
 
-- I'm highly proficient in `Haskell`, `C23`, `Lean 4`, `Koka`, `Julia/OSCAR.jl`, `Nix`, and `Janet`.
+- I'm highly proficient in `Haskell`, `C23`, `Lean 4`, `Go`, `Koka`, `Julia/OSCAR.jl`, and `Janet`.
 
-- I have high familiarity with and am actively learning `Rzk`, `F*/Low*`, `Rocq`, `Quint`, `Dhall`, `Unison`, and `RISC-V Assembly`.
+- I have high familiarity with and am actively learning `Rzk`, `F*/Low*`, `Nix`, `Quint`, `Dhall`, `Unison`, and `RISC-V Assembly`.
 
 I like water polo, competitive poker, and fashion design in my free time. If you're interested in working on something together, contact me at `${first_name}@surmeier.us`.
 
