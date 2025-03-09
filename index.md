@@ -33,10 +33,8 @@ security. Most notably inspired by [Mirage OS](https://mirage.io),
 
       - Demo of improvement of the [EEVDF](https://docs.kernel.org/scheduler/sched-eevdf.html) scheduler on Linux via [sched_ext](https://www.kernel.org/doc/html/next/scheduler/sched-ext.html)/eBPF
 
-      - A proof-supported MVP relating to the [MCSP](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1256&context=hmc_theses)
-
-      A whitepaper will be released June 1st, 2025; email me at `${first_name}@surmeier.us` for more information.
-
+      - A proof-supported MVP relating to the [MCSP](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1256&context=hmc_theses). A whitepaper will be released June 1st, 2025.
+      
 I currently contribute to the following:
 
 - [Constellation](https://constellation-project.net/): NU and CMU project group aimed at developing full software and hardware stack for frictionless heterogeneous parallelism.
@@ -78,7 +76,7 @@ Language knowledge:
 
 - I have high familiarity with and am actively learning `Rzk`, `F*/Low*`, `Nix`, `Quint`, `Dhall`, `Unison`, and `RISC-V Assembly`.
 
-I like water polo, competitive poker, and fashion design in my free time. If you're interested in working on something together, contact me at `${first_name}@surmeier.us`.
+I like water polo, competitive poker, and fashion design in my free time. If you're interested in working on something together, contact me at `carson at surmeier dot us`.
 
 - “The valor that struggles is better than the weakness that endures.” - Hegel.
 
