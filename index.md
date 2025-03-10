@@ -76,7 +76,7 @@ Language knowledge:
 
 - I have high familiarity with and am actively learning `Rzk`, `F*/Low*`, `Nix`, `Quint`, `Dhall`, `Unison`, and `RISC-V Assembly`.
 
-I like water polo, competitive poker, and fashion design in my free time. If you're interested in working on something together, contact me at `carson at surmeier dot us`.
+I like water polo, competitive poker, and fashion design in my free time. If you're interested in working on something together, contact me via email: `carson at surmeier dot us`.
 
 - “The valor that struggles is better than the weakness that endures.” - Hegel.
 
