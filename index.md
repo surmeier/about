@@ -72,7 +72,7 @@ Notable previous contributions:
 
 Language knowledge:
 
-- I'm highly proficient in `Haskell`, `C23`, `Lean 4`, `Go`, `Koka`, `Julia/OSCAR.jl`, and `Janet`.
+- I'm highly proficient in `Haskell`, `C23`, `Lean 4`, `Prolog`, `Koka`, `Julia/OSCAR.jl`, and `Janet`.
 
 - I have high familiarity with and am actively learning `Rzk`, `F*/Low*`, `Nix`, `Quint`, `Dhall`, `Unison`, and `RISC-V Assembly`.
 
