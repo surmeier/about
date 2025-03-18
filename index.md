@@ -72,9 +72,9 @@ Notable previous contributions:
 
 Language knowledge:
 
-- I'm highly proficient in `Haskell`, `C23`, `Lean 4`, `Prolog`, `Koka`, `Julia/OSCAR.jl`, `Go`, `Python`, and `Janet`.
+- I'm highly proficient in `Haskell`, `C23`, `Koka`, `Prolog`, `Go`, `Julia/OSCAR.jl`, and `Janet`.
 
-- I have high familiarity with and am actively learning `Rzk`, `F*/Low*`, `Nix`, `Quint`, `Dhall`, `Unison`, `jq`, `Scala 3` and `RISC-V Assembly`.
+- I have high familiarity with and am actively learning `Rzk`, `F*/Low*`, `Nix`, `Lean 4`, `Dhall`, `Unison`, and `RISC-V Assembly`.
 
 I like water polo, competitive poker, and fashion design in my free time. If you're interested in working on something together, contact me via email: `carson at surmeier dot us`.
 
