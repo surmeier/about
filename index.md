@@ -4,7 +4,7 @@ layout: null
 
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-Hi, my name is Hays. I currently work in the [Prescience Lab](http://presciencelab.org/), led by Professor Peter Dinda.
+Hi, my name is Hays. I also go by Carson. I currently work in the [Prescience Lab](http://presciencelab.org/), led by Professor Peter Dinda.
 
 - My main research interests are operating systems, software/hardware formal verification, CPU microarchitecture, algebraic geometry, and homotopy type theory. 
 
@@ -76,7 +76,7 @@ Language knowledge:
 
 - I have high familiarity with and am actively learning `Rzk`, `F*/Low*`, `Nix`, `Lean 4`, `Dhall`, `Unison`, and `RISC-V Assembly`.
 
-I like water polo, competitive poker, and fashion design in my free time. If you're interested in working on something together, contact me via email: `carson at surmeier dot us`.
+I like water polo, competitive poker, and fashion design in my free time. If you're interested in working on something together, contact me via email: `hays <at> surmeier <dot> us`.
 
 - “The valor that struggles is better than the weakness that endures.” - Hegel.
 
