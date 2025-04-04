@@ -81,3 +81,5 @@ I like water polo, competitive poker, and fashion design in my free time. If you
 - “The valor that struggles is better than the weakness that endures.” - Hegel.
 
 - "I always finish my side projects." - Me
+
+S/O to all the black cats who code!!! Happy 4/4.
