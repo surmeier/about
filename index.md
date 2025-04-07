@@ -76,10 +76,10 @@ Language knowledge:
 
 - I have high familiarity with and am actively learning `Rzk`, `F*/Low*`, `Nix`, `Lean 4`, `Dhall`, `Unison`, and `RISC-V Assembly`.
 
-I like water polo, competitive poker, and fashion design in my free time. If you're interested in working on something together, contact me via email: `hays <at> surmeier <dot> us`.
+I enjoy water polo, fashion design, competitive poker, and NFL analytics in my free time. If you're interested in working on something together, contact me via email: `hays <at> surmeier <dot> us`.
 
 - “The valor that struggles is better than the weakness that endures.” - Hegel.
 
 - "I always finish my side projects." - Me
 
-S/O to all the black cats who code!!! Happy 4/4.
+S/O to all the black cats who code!!! Happy 4/4. Praise be.
